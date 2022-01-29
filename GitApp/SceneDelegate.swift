@@ -14,8 +14,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
     
-        // aoifjofjsdof
-        //ksldfjlsjfkj
+        // aoifjofjsdof new
+        //ksldfjlsjfkj new
         guard let _ = (scene as? UIWindowScene) else { return }
     }
 
